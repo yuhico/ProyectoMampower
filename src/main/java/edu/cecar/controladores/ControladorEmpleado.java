@@ -30,7 +30,7 @@ import java.sql.SQLException;
  */
 public class ControladorEmpleado {
     
-    private ConectarMySQL conectarMySQL;
+    private ConectarMySQL conectarMySQL;//Hola
     
     public ControladorEmpleado(){
         
